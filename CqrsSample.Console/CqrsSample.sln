@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsSample.Core", "CqrsSample.Core\CqrsSample.Core.csproj", "{88EB4C7F-F913-4272-9F73-DF0E469CE6A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsSample.ConsoleApp", "CqrsSample.ConsoleApp\CqrsSample.ConsoleApp.csproj", "{83C5A02F-A99A-443B-B8BA-80101DA4E3D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{618D5EBE-7CE4-4297-9CC6-FB41F01BB0D5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EB4C7F-F913-4272-9F73-DF0E469CE6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EB4C7F-F913-4272-9F73-DF0E469CE6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EB4C7F-F913-4272-9F73-DF0E469CE6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EB4C7F-F913-4272-9F73-DF0E469CE6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C5A02F-A99A-443B-B8BA-80101DA4E3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C5A02F-A99A-443B-B8BA-80101DA4E3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C5A02F-A99A-443B-B8BA-80101DA4E3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C5A02F-A99A-443B-B8BA-80101DA4E3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4DBBA2-8D60-4E91-84C7-D4835DEAAA9D}
+	EndGlobalSection
+EndGlobal
