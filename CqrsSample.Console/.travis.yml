@@ -1,7 +1,7 @@
 language: csharp
 solution: CqrsSample.ConsoleApp.sln
-install:
-  - nuget restore CqrsSample.ConsoleApp.sln
 branches:
  only:
   - master
+install:
+  - nuget restore CqrsSample.ConsoleApp.sln
